@@ -1,2 +1,3 @@
-# 02_nodejs
- App_Node_Back - seed_a_bit
+# nodejs_background
+ 
+Projeto usando node js para background de um app react-native  
